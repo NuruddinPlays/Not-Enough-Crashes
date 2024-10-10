@@ -30,10 +30,14 @@
     "notenoughcrashes.midnightconfig.disableReturnToMainMenu": "停用回到標題畫面",
     "notenoughcrashes.midnightconfig.catchInitializationCrashesComment1": "（僅限 Fabric）若設定為 true，在初始化失敗時遊戲將正常關閉。",
     "notenoughcrashes.midnightconfig.catchInitializationCrashesComment2": "並且不會顯示特殊的崩潰畫面",
+    "notenoughcrashes.midnightconfig.catchInitializationCrashesComment3": "當安裝特定模組時，此選項將始終停用（即使設為 true）。",
     "notenoughcrashes.midnightconfig.catchInitializationCrashes": "捕獲初始化崩潰",
-    "notenoughcrashes.midnightconfig.debugModIdentificationComment": "若設定為 true，將為模組開發人員記錄附加信息。",
+    "notenoughcrashes.midnightconfig.debugModIdentificationComment": "若設定為 true，將為模組開發人員記錄附加資訊。",
     "notenoughcrashes.midnightconfig.debugModIdentification": "除錯模組識別",
-    "notenoughcrashes.midnightconfig.crashLimitComment": "NEC 在一個 session 中試圖防止遊戲關閉的次數。",
+    "notenoughcrashes.midnightconfig.crashLimitComment": "NEC 在一個遊戲階段中嘗試阻止遊戲關閉的次數。",
     "notenoughcrashes.midnightconfig.crashLimit": "崩潰限制",
+    "notenoughcrashes.midnightconfig.catchGameloopComment1": "如果為 false，NEC 將不會在遊戲崩潰時嘗試阻止遊戲關閉。",
+    "notenoughcrashes.midnightconfig.catchGameloopComment2": "當安裝 Iris 時，此選項將始終停用（即使設定設為 true）。",
+    "notenoughcrashes.midnightconfig.catchGameloop": "捕獲遊戲崩潰",
     "notenoughcrashes.midnightconfig.title": "Not Enough Crashes 設定"
 }
